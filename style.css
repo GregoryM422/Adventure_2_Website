@@ -1,0 +1,26 @@
+
+div {
+    font-family: Helvetica;
+    background-color: #575f66;
+    color: white;
+    font-size: 28px;
+    padding: 28px;
+ }
+  
+ .title {
+    font-family: Helvetica;
+    color: white;
+    background-color: #575f66;
+    font-size: 28px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+ }
+ 
+ .textphoto {
+    display: flex;
+    border-style: solid;
+    border-color: #575f66;
+    font-family: Helvetica;
+    padding: 10px;
+ }
